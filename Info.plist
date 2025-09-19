@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+    <string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+    <key>CFBundleName</key>
+    <string>ReelFeels</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Potrebna dozvola za učitavanje slika iz galerije</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Potrebna dozvola za korištenje kamere</string>
+    <key>TMDB_API_KEY</key>
+    <string>f16b38ce1b15ae5efd4d9f210416e597</string>
+</dict>
+</plist>
